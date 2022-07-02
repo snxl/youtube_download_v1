@@ -1,4 +1,4 @@
-package youtubeVideoInfos
+package youtubeVideoInfosUseCase
 
 import (
 	"github.com/snxl/youtube-dowloader/src/domain/client/youtubeClient"
